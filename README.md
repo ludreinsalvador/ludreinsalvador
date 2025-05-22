@@ -1,8 +1,8 @@
-![github-readme.png](image2)
+![github-readme.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-readme.png)
 
 <h1 align="center">Hi 👋 I'm Ludrein!</h1>
 
-<h3 align="center">I am currently an Information Systems student who specializes in Data Science. Some of my hands-on experiences are in Data Visualization, Data Administration and Optimization, Machine Learning, and currently learning Data Mining and Warehousing.</h3>
+<h3 align="center">I am currently an Information Systems student specializing in Data Science. I have hands-on experience in Data Visualization, Data Administration and Optimization, and Machine Learning, and I am currently learning Data Mining and Data Warehousing.</h3>
 <h3 align="center">I am passionate in exploring data analytics, UI/UX design, AI, research, and front-end development.</h3>
 
 ---
