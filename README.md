@@ -1,9 +1,9 @@
-
+![https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png)
 
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
 <h3 align="center">I am currently an Information Systems student specializing in Data Science. I have hands-on experience in Data Visualization, Data Administration and Optimization, and Machine Learning, and I am currently learning Data Mining and Data Warehousing.</h3>
-<h3 align="center">I am passionate in exploring UI/UX design, data analytics, AI, research, and front-end development.</h3>
+<h3 align="center">I am passionate in exploring UI/UX design, data analytics, AI, research, and web development.</h3>
 
 ---
 
