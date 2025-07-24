@@ -1,4 +1,4 @@
-![github-readme.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-readme.png)
+
 
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
