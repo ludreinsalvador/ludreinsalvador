@@ -1,5 +1,7 @@
 <!-- ![https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png) -->
-![ls-github-banner](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/ls-github-banner.gif)
+<div align="center">
+  <img src="https://ludreinsalvador.github.io/ludreinsalvador/ls-github-banner.gif" alt="Banner" width="100%"/>
+</div>
 
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
