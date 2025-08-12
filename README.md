@@ -1,4 +1,5 @@
-![https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png)
+<!-- ![https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png) -->
+![https://github.com/ludreinsalvador/ludreinsalvador/blob/main/ls-github-banner.gif](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/ls-github-banner.gif)
 
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
