@@ -3,10 +3,6 @@
   <img src="https://ludreinsalvador.github.io/ludreinsalvador/ls-github-banner.gif" alt="Banner" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ludreinsalvador/ludreinsalvador/main/ls-github-banner.webp" alt="Banner" width="100%"/>
-</div>
-
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
 <h3 align="center">I am currently an Information Systems student specializing in Data Science. I have hands-on experience in Data Visualization, Data Administration and Optimization, and Machine Learning, and I am currently learning Data Mining and Data Warehousing in my specialization.</h3>
