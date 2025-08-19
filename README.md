@@ -16,18 +16,14 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludreinsalvador&label=Profile%20views&color=0e75b6&style=flat" alt="ludreinsalvador" /> </p>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ludrein-salvador" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ludrein-salvador" height="30" width="40" />
-  </a>
-<a href="https://fb.com/ludreinsalvador" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ludreinsalvador" height="30" width="40" />
-</a>
-<a href="https://instagram.com/truethe.rein" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="truethe.rein" height="30" width="40" />
-</a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ludrein-salvador)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/ludreinsalvador)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/truethe.rein)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ludreinsalvador)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.datascienceportfol.io/ludreinreimarsalvado)
 
 <h3 align="left">Languages, Tools, and Tech Stack:</h3>
 
