@@ -5,8 +5,8 @@
 
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
-<h3 align="center">I am an Information Systems student specializing in Data Science. I have hands-on experience in Data Visualization, Data Administration and Optimization, and Machine Learning, and I am currently learning Data Mining and Cloud Warehousing in my specialization.</h3>
-<h3 align="center">I am also passionate in exploring UI/UX design, data analytics, AI, research, and web development.</h3>
+<h3 align="center">I am an Information Systems student specializing in Data Science. I’ve gained hands-on experience using tools like Figma, Power BI, and VS Code to turn ideas into real projects.</h3>
+<h3 align="center">I am also passionate in exploring UI/UX design, data analytics, machine learning, AI, research, and web development.</h3>
 
 ---
 
