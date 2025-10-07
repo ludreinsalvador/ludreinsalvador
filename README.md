@@ -5,8 +5,8 @@
 
 <h1 align="center">Hi I'm Ludrein! 👋🏻</h1>
 
-<h3 align="center">I'm an Information Systems student specializing in Data Science. I enjoy working with tools like Figma, Power BI, and VS Code to bring ideas to life from concepts into real projects.</h3>
-<h3 align="center">I'm someone who's also passionate in exploring UI/UX design, data analytics, machine learning, AI, research, and web development.</h3>
+<h3 align="center">I’m an Information Systems student specializing in Data Science, passionate about turning ideas into reality through design and technology. I enjoy working with tools like Figma, Power BI, and VS Code to transform concepts into real-world projects.</h3>
+<h3 align="center">My passion also extends to UI/UX design, data analytics, machine learning, artificial intelligence, research, and web development.</h3>
 
 ---
 
