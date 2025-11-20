@@ -3,7 +3,7 @@
   <img src="https://ludreinsalvador.github.io/ludreinsalvador/ls-github-banner.gif" alt="Banner" width="100%"/>
 </div>
 
-<h1 align="center">Hey I'm Ludrein! 👋🏻</h1>
+<h1 align="center">Hey! It's Ludrein! 👋🏻</h1>
 
 <h3 align="center">I’m an Information Systems student specializing in Data Science, passionate about turning ideas into reality through design and technology. I enjoy working with tools like Figma, Power BI, and VS Code to transform concepts into real-world projects.</h3>
 <h3 align="center">My passion also extends to UX/UI design, data analytics, machine learning, artificial intelligence, research, and web development.</h3>
