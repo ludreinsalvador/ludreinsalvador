@@ -1,11 +1,10 @@
-<!-- ![https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png](https://github.com/ludreinsalvador/ludreinsalvador/blob/main/github-banner.png) -->
 <div align="center">
   <img src="https://ludreinsalvador.github.io/ludreinsalvador/ls-github-banner.gif" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hey! It's Ludrein 👋🏻</h1>
 
-<h3 align="center">I’m an Information Systems student specializing in Data Science, passionate about turning ideas into reality through design and technology. I enjoy working with tools like Figma, Power BI, and VS Code to transform concepts into real-world projects.</h3>
+<h3 align="center">I'm an Information Systems student specializing in Data Science, passionate about turning ideas into reality through design and technology. I enjoy working with tools like Figma, Power BI, and VS Code to transform concepts into real-world projects.</h3>
 <h3 align="center">My passion also extends to UX/UI design, data analytics, machine learning, artificial intelligence, research, and web development.</h3>
 
 ---
@@ -15,6 +14,7 @@
 - 📫 How to reach me: **ludreinreimar.salvador@gmail.com**
 
 ---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludreinsalvador&label=Profile%20views&color=0e75b6&style=flat" alt="ludreinsalvador" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -88,13 +88,32 @@
 #### Others
 ![Resend](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=minutemailer&logoColor=white)
 
+---
+
 <h3 align="left">GitHub Stats:</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=ludreinsalvador&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ludreinsalvador&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ludreinsalvador&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- GitHub Stats Card — using stats.quine.sh as a reliable alternative -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ludreinsalvador&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<!-- Streak Stats — demolab is stable -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ludreinsalvador&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages — alternative instance -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ludreinsalvador&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ludreinsalvador&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
+</p>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=ludreinsalvador&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
