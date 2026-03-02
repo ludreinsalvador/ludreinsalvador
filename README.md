@@ -15,7 +15,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludreinsalvador&label=Profile%20views&color=0e75b6&style=flat" alt="ludreinsalvador" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reinmagine&label=Profile%20views&color=0e75b6&style=flat" alt="ludreinsalvador" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -94,7 +94,7 @@
 
 <!-- GitHub Stats Card — using stats.quine.sh as a reliable alternative -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ludreinsalvador&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=reinmagine&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <!-- Streak Stats — demolab is stable -->
@@ -104,12 +104,12 @@
 
 <!-- Top Languages — alternative instance -->
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ludreinsalvador&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reinmagine&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ludreinsalvador&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reinmagine&theme=tokyo-night&hide_border=false" alt="Contribution Graph" />
 </p>
 
 ---
