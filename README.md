@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ludreinsalvador.github.io/ludreinsalvador/ls-github-banner.gif" alt="Banner" width="100%"/>
+  <img src="https://ludreinsalvador.github.io/reinmagine/ls-github-banner.gif" alt="Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hey! It's Ludrein 👋🏻</h1>
