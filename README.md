@@ -99,7 +99,7 @@
 
 <!-- Streak Stats — demolab is stable -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ludreinsalvador&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=reinmagine&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages — alternative instance -->
@@ -114,6 +114,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ludreinsalvador&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=reinmagine&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
