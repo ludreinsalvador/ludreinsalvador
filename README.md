@@ -9,7 +9,7 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at: [https://github.com/reinmagine](https://github.com/reinmagine)
+- ☁️ All of my projects are available at: **[https://github.com/reinmagine](https://github.com/reinmagine)**
 
 - 📫 How to reach me: **ludreinreimar.salvador@gmail.com**
 
