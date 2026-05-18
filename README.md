@@ -69,8 +69,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Bluehost](https://img.shields.io/badge/Bluehost-003f7f?style=for-the-badge&logo=bluehost&logoColor=white)
 ![Progressier](https://img.shields.io/badge/Progressier-4285F4?style=for-the-badge&logo=pwa&logoColor=white)
