@@ -2,7 +2,7 @@
   <img src="https://reinmagine.github.io/reinmagine/ls-github-banner.gif" alt="Banner" width="100%"/>
 </div>
 
-<h1 align="center">Hey! It's Ludrein ☁️</h1>
+<h1 align="center">Hey! It's Ludrein ☁︎</h1>
 <h3 align="center"><em>Luds to Udin, I rock with anything in between!</em></h3>
 
 <h4 align="center">An Information Systems student with a concentration on Data Science. Drawn to the intersection of data, design, and technology, particularly in data analytics, BI, UX/UI, ML/AI, and web development.</h4>
